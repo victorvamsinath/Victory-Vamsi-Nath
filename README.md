@@ -1,11 +1,9 @@
 # Hi 👋, I'm Vamsi Nath
 
-Aspiring Data Analyst | SQL | Python | Power BI
+Aspiring Data Analyst | SQL | 
 
 ## Skills
 - SQL  
-- Python  
-- Power BI  
 - Excel  
 
 ## Projects
