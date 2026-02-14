@@ -5,6 +5,7 @@ Aspiring Data Analyst | SQL |
 ## Skills
 - SQL  
 - Excel  
+- My Sql
 
 ## Projects
 - Personal Expense Tracker – SQL  
